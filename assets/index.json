@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        {
+            "name": "Helloworld",
+            "description": "Helloworld Extension",
+            "dependencies": [
+                "BurgerMenu"
+            ]
+        }
+    ]
+}
